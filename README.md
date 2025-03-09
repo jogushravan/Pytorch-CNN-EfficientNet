@@ -1,5 +1,7 @@
 # EfficientNetV2 EfficientNetV1 in Pytorch with pretrained weights
 
+Read Meduim article: https://medium.com/@enrico.randellini/image-classification-resnet-vs-efficientnet-vs-efficientnet-v2-vs-compact-convolutional-c205838bbf49
+
 A single-file implementation of EfficientNetV2 and EfficientNetV1 as introduced in:  
 [\[Tan & Le 2021\]: EfficientNetV2: Smaller Models and Faster Training](https://arxiv.org/pdf/2104.00298.pdf)  
 [\[Tan & Le 2019\]: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
