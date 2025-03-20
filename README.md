@@ -11,6 +11,7 @@ Original implementations of both [EfficientNetV2](https://github.com/google/auto
 These weigths were converted to Pytorch format and are provided in this repository.
 
 ## Accuracy
+![image](https://github.com/user-attachments/assets/9e64320c-a7fa-4c57-8001-1558f072c68d)
 
 ### EfficientNet V2
 | Model | ImageNet 1k Top-1 accuracy, % |
